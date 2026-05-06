@@ -29,7 +29,7 @@ This project demonstrates a hands-on IT support lab built using virtualization. 
 - Created and managed user accounts  
 - Managed computer objects  
 
-![Active Directory](creating OU,Group and User.PNG)
+![Active Directory](image/creating OU,Group and User.PNG)
 
 ---
 
