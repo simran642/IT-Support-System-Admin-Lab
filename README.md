@@ -44,12 +44,12 @@ Configured Active Directory-integrated DNS with forward and reverse lookup zones
 ![DNS Forward](image/dns-forward.png)
 
 ## 🔹 Reverse Lookup Zone
-![DNS Reverse](image/dns-reverse.png)
+![DNS Reverse](image/dns-reversed.png)
 
 ## ✅ DNS Resolution Test
+![Verify DNS Connection](image/dns-replyingserver.png)
 
-```bash
-ping winserver.simranlab.local
+
 
 ### ✅ Group Policy (GPO)
 
