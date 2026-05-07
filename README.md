@@ -33,13 +33,23 @@ This project demonstrates a hands-on IT support lab built using virtualization. 
 
 ---
 
-### ✅ DNS Configuration
-- Configured forward lookup zone  
-- Configured reverse lookup zone  
-- Verified domain name resolution  
+# 🌐 DNS Configuration
+
+Configured Active Directory-integrated DNS with forward and reverse lookup zones for hostname resolution.
+
+## 🔹 DNS Zone
 ![DNS Zones](image/dns-zones.png)
-![DNS Forward](image/dns-forwarloop.PNG)
----
+
+## 🔹 Forward Lookup Zone
+![DNS Forward](image/dns-forward.png)
+
+## 🔹 Reverse Lookup Zone
+![DNS Reverse](image/dns-reverse.png)
+
+## ✅ DNS Resolution Test
+
+```bash
+ping winserver.simranlab.local
 
 ### ✅ Group Policy (GPO)
 
