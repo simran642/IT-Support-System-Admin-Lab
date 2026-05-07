@@ -37,7 +37,7 @@ This project demonstrates a hands-on IT support lab built using virtualization. 
 - Configured forward lookup zone  
 - Configured reverse lookup zone  
 - Verified domain name resolution  
-![DNS Configuration](DNS Configuration)
+![DNS Configuration](DNS Configuration/dns zones.png)
 
 ---
 
