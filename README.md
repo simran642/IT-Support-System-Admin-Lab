@@ -65,13 +65,13 @@ Configured Active Directory-integrated DNS with forward and reverse lookup zones
 - Locks account after 3 incorrect password attempts  
 - Automatically unlocks after 3 minute  
 
-![GPO Lockout](images/gpo-lockout.png)
+![GPO Lockout](image/gpo-lockout.png)
 
 ### ✅ Locked User Account
 
 Verified account lockout behavior after multiple failed login attempts.
 
-![Locked User](images/account-locked.png)
+![Locked User](image/account-locked.png)
 
 ---
 
