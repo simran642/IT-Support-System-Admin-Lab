@@ -19,7 +19,15 @@ This project demonstrates a hands-on IT support lab built using virtualization. 
 - Created virtual machines using VirtualBox  
 - Installed Windows Server 2022 and Windows 10  
 - Promoted server to Domain Controller  
-- Joined Windows 10 client to domain  
+- Joined Windows 10 client to domain
+
+
+### ✅ Windows Server Configuration
+![Windows Server](images/server-config.png)
+
+### ✅ Client Joined to Domain
+![Client Domain](images/client-domain.png)
+  
 
 ---
 
