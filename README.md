@@ -26,7 +26,7 @@ This project demonstrates a hands-on IT support lab built using virtualization. 
 ![Windows Server](image/server-config.png)
 
 ### ✅ Client Joined to Domain
-![Client Domain](image/client-domain.png)
+![Client Domain](image/client-domain.jpg)
   
 
 ---
