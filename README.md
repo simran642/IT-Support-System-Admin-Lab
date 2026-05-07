@@ -38,7 +38,7 @@ This project demonstrates a hands-on IT support lab built using virtualization. 
 - Configured reverse lookup zone  
 - Verified domain name resolution  
 ![DNS Zones](image/dns-zones.png)
-
+![DNS Forward](image/dns forwarloop.PNG)
 ---
 
 ### ✅ Group Policy (GPO)
