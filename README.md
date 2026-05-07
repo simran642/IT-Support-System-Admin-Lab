@@ -71,7 +71,7 @@ Configured Active Directory-integrated DNS with forward and reverse lookup zones
 
 Verified account lockout behavior after multiple failed login attempts.
 
-![Locked User](image/account-locked.png)
+![Locked User](image/account-lockout.png)
 
 ---
 
