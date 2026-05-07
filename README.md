@@ -67,6 +67,12 @@ Configured Active Directory-integrated DNS with forward and reverse lookup zones
 
 ![GPO Lockout](images/gpo-lockout.png)
 
+### ✅ Locked User Account
+
+Verified account lockout behavior after multiple failed login attempts.
+
+![Locked User](images/account-locked.png)
+
 ---
 
 #### 🔐 USB Restriction Policy
