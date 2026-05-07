@@ -47,7 +47,7 @@ Configured Active Directory-integrated DNS with forward and reverse lookup zones
 ![DNS Reverse](image/dns-reversed.png)
 
 ## ✅ DNS Resolution Test
-![Verify DNS Connection](image/dns-replyingserver.png)
+![Verify DNS Connection](image/verifying-serverip.jpg)
 
 
 
