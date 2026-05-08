@@ -217,9 +217,7 @@ Opened the shared folder from the client system to verify successful access and 
 
 ![Share Access Fixed](image/file-sharing-accessed.PNG)
 
-##Successifully User Can Access The File Sharing
-
-![User can access now](image/file-share-verification.png)
+![User can access File Sharing Now.](image/file-share-verification.png)
 ---
 
 ## 🔹 Outcome
