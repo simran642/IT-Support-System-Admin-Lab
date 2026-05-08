@@ -53,7 +53,7 @@ Configured user accounts and added users to department groups using PowerShell c
 
 Created Organizational Units and security groups using PowerShell.
 
-![PowerShell OU and Group](images/powershell-ou-group.PNG)
+![PowerShell OU and Group](image/powershell-ou-group.PNG)
 
 ---
 
@@ -61,7 +61,7 @@ Created Organizational Units and security groups using PowerShell.
 
 Created domain user accounts using PowerShell commands.
 
-![PowerShell User Creation](images/powershell-user.PNG)
+![PowerShell User Creation](image/powershell-user.PNG)
 
 ---
 
@@ -69,7 +69,7 @@ Created domain user accounts using PowerShell commands.
 
 Added users to department security groups using PowerShell.
 
-![PowerShell Group Membership](images/powershell-group-member.PNG)
+![PowerShell Group Membership](image/powershell-group-member.PNG)
 
 ---
 
@@ -77,7 +77,7 @@ Added users to department security groups using PowerShell.
 
 Verified that the users and groups were successfully created inside the correct Organizational Unit in Active Directory Users and Computers.
 
-![AD Verification](images/ad-verification.PNG)
+![AD Verification](image/ad-verification.PNG)
 
 ---
 
@@ -85,7 +85,7 @@ Verified that the users and groups were successfully created inside the correct 
 
 Verified that users were successfully added to the correct security groups.
 
-![Group Verification](images/group-verification.PNG)
+![Group Verification](image/group-verification.PNG)
 
 
 
