@@ -76,7 +76,18 @@ Verified account lockout behavior after multiple failed login attempts.
 ---
 
 #### 🔐 USB Restriction Policy
-- Blocked access to external USB devices  
+- Blocked access to external USB devices
+-  Configured Group Policy to block access to all removable storage devices.
+
+![USB Restriction Policy](image/usb-policy.PNG)
+
+### ✅ Group Policy Applied
+
+Verified that the removable storage restriction policy was successfully applied.
+
+![GPO Applied](image/gpo-applied.PNG)
+
+
 
 ---
 
