@@ -145,21 +145,47 @@ Verified that removable storage access was denied on the client machine after ap
 
 
 ---
+### ✅ File Sharing Configuration
 
-### ✅ Audit Policy
-- Enabled logging for account lockout and login failures  
+Configured shared folders on Windows Server to allow centralized file access for domain users within the network.
 
+Created a shared folder named `sales_files` on the Windows Server machine and enabled network sharing. Assigned Sharing permissions and NTFS Security permissions to authorized domain users and groups to control access securely.
+
+The configuration was tested from a domain-joined Windows 10 client machine to verify successful network access to the shared folder.
 
 ---
-### ✅ File Sharing Configuration
-- Configured shared folders on Windows Server  
-- Assigned access permissions to specific users  
-- Tested file access from client machine within domain  
 
-Below is the shared folder configuration and access from client:
+### 🔐 Shared Folder Configuration
 
-![File Sharing](images/file-sharing.png)
+Created and shared the `sales_files` folder on Windows Server.
 
+![Shared Folder Configuration](image/share-folder-config.PNG)
+
+---
+
+### 🔐 NTFS and Share Permissions
+
+Configured NTFS Security permissions and share access for authorized users and groups.
+
+![Share Permissions](images/share-permissions.png)
+
+---
+
+### 📂 Shared Folder Access from Client
+
+Verified that the domain-joined client machine could successfully access the shared folder over the network.
+
+![Shared Folder Access](images/file-sharing-access.png)
+
+---
+
+### ✅ File Share Verification
+
+Opened the shared folder from the client system to verify successful access and permission configuration.
+
+![File Share Verification](image/file-share-verification.png)
+
+---
 ## 🔹 Troubleshooting Scenarios
 - Resolved user password reset issues  
 - Unlocked locked user accounts  
