@@ -167,7 +167,7 @@ Created and shared the `sales_files` folder on Windows Server.
 
 Configured NTFS Security permissions and share access for authorized users and groups.
 
-![Share Permissions](images/share-permissions.png)
+![Share Permissions](image/share-permissions.PNG)
 
 ---
 
@@ -175,7 +175,7 @@ Configured NTFS Security permissions and share access for authorized users and g
 
 Verified that the domain-joined client machine could successfully access the shared folder over the network.
 
-![Shared Folder Access](images/file-sharing-access.png)
+![Shared Folder Access](image/file-sharing-access.PNG)
 
 ---
 
@@ -183,7 +183,7 @@ Verified that the domain-joined client machine could successfully access the sha
 
 Opened the shared folder from the client system to verify successful access and permission configuration.
 
-![File Share Verification](image/file-share-verification.png)
+![File Share Verification](image/file-share-verification.PNG)
 
 ---
 ## 🔹 Troubleshooting Scenarios
