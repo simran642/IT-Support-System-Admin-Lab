@@ -159,7 +159,7 @@ The configuration was tested from a domain-joined Windows 10 client machine to v
 
 Created and shared the `sales_files` folder on Windows Server.
 
-![Shared Folder Configuration](image/share-folder-config.PNG)
+![Shared Folder Configuration](image/share-folder-config.jpg)
 
 ---
 
@@ -167,7 +167,7 @@ Created and shared the `sales_files` folder on Windows Server.
 
 Configured NTFS Security permissions and share access for authorized users and groups.
 
-![Share Permissions](image/share-permissions.PNG)
+![Share Permissions](image/share-permissions.jpg)
 
 ---
 
