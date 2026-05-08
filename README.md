@@ -167,7 +167,7 @@ Created and shared the `sales_files` folder on Windows Server.
 
 Configured NTFS Security permissions and share access for authorized users and groups.
 
-![Share Permissions](image/share-permissions.jpg)
+![Share Permissions](image/share-permission.jpg)
 
 ---
 
