@@ -87,6 +87,11 @@ Verified that the removable storage restriction policy was successfully applied.
 
 ![GPO Applied](image/gpo-applied.PNG)
 
+### ✅ USB Access Blocked
+
+Verified that removable storage access was denied on the client machine after applying the Group Policy.
+
+![USB Blocked](image/usb.blocked.jpg)
 
 
 ---
