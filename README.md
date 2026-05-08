@@ -192,6 +192,30 @@ Opened the shared folder from the client system to verify successful access and 
 - Diagnosed login failures using audit logs  
 
 ![User Issue](images/user-issue.png)
+---
+
+## 🎫 Troubleshooting Ticket - File Sharing Access Issue
+
+| Field | Value |
+|---|---|
+| Ticket ID | TKT-0006 |
+| Category | File Sharing / Permission Issue |
+| Priority | P2 - High |
+| Affected User | sam.user |
+| Department | Sales |
+| Issue | User unable to access shared folder |
+| Error Message | Access Denied |
+| Root Cause | User/group permissions not configured correctly |
+| Resolution | Updated NTFS and sharing permissions for authorized users |
+| Status | Resolved |
+
+### ❌ Access Denied Error
+
+![Access Denied](image/share-access-denied.PNG)
+
+### ✅ Access Restored After Permission Update
+
+![Share Access Fixed](image/file-sharing-access.PNG)
 
 ---
 
