@@ -41,6 +41,56 @@ This project demonstrates a hands-on IT support lab built using virtualization. 
 
 ---
 
+# ⚡ PowerShell Administration
+
+Used PowerShell to automate Active Directory administration tasks such as creating Organizational Units (OU), security groups, and domain users.
+
+Configured user accounts and added users to department groups using PowerShell commands, then verified the changes in Active Directory Users and Computers.
+
+---
+
+### ✅ OU and Group Creation using PowerShell
+
+Created Organizational Units and security groups using PowerShell.
+
+![PowerShell OU and Group](images/powershell-ou-group.png)
+
+---
+
+### ✅ User Creation using PowerShell
+
+Created domain user accounts using PowerShell commands.
+
+![PowerShell User Creation](images/powershell-user.png)
+
+---
+
+### ✅ Added Users to Security Groups
+
+Added users to department security groups using PowerShell.
+
+![PowerShell Group Membership](images/powershell-group-member.png)
+
+---
+
+### ✅ Active Directory Verification
+
+Verified that the users and groups were successfully created inside the correct Organizational Unit in Active Directory Users and Computers.
+
+![AD Verification](images/ad-verification.png)
+
+---
+
+### ✅ Group Membership Verification
+
+Verified that users were successfully added to the correct security groups.
+
+![Group Verification](images/group-verification.png)
+
+
+
+---
+
 # 🌐 DNS Configuration
 
 Configured Active Directory-integrated DNS with forward and reverse lookup zones for hostname resolution.
