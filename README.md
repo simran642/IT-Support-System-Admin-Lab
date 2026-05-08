@@ -183,7 +183,7 @@ Verified that the domain-joined client machine could successfully access the sha
 
 Opened the shared folder from the client system to verify successful access and permission configuration.
 
-![File Share Verification](image/file-share-verification.PNG)
+![File Share Verification](image/file-share-verification.png)
 
 ---
 ## 🔹 Troubleshooting Scenarios
