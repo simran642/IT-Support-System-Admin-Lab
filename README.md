@@ -215,7 +215,7 @@ Opened the shared folder from the client system to verify successful access and 
 
 ### ✅ Access Restored After Permission Update
 
-![Share Access Fixed](image/file-sharing-accesd.PNG)
+![Share Access Fixed](image/file-sharing-accessed.PNG)
 
 ---
 
