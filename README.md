@@ -253,7 +253,7 @@ The locked user account was successfully unlocked through ADUC, restoring domain
 |---|---|
 | Ticket ID | TKT-0006 |
 | Category | File Sharing / Permission Issue |
-| Priority | P2 - High |
+| Priority | P3 - Medium |
 | Affected User | sam.user |
 | Department | Sales |
 | Issue | User unable to access shared folder |
