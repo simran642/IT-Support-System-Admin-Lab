@@ -245,7 +245,7 @@ The locked user account was successfully unlocked through ADUC, restoring domain
 ![Account Related issue](image/ad-aduc.PNG)
 
 ### Successful Login After Unlock
-![Account Open](image/ad-verify.Png)
+![Account Open](image/ad-verify.PNG)
 
 ---
 
