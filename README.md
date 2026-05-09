@@ -196,6 +196,59 @@ Opened the shared folder from the client system to verify successful access and 
 
 ## 🎫 Troubleshooting Ticket - File Sharing Access Issue
 
+# Active Directory Account Lockout Troubleshooting
+
+## Ticket Information
+
+| Field | Value |
+|---|---|
+| Ticket ID | TKT-0005 |
+| Category | Active Directory Account Lockout |
+| Priority | P2 - High |
+| Affected User | sam.user |
+| Department | Sales |
+| Issue | User unable to log in to domain client |
+| Error Message | The referenced account is currently locked out and may not be logged on to. |
+| Root Cause | Multiple failed login attempts triggered the account lockout policy |
+| Resolution | Verified the affected user account and client machine within the domain environment. The locked Active Directory account was unlocked using Active Directory Users and Computers (ADUC), and login functionality was tested successfully on the client device. |
+| Status | Resolved |
+
+---
+
+## Scenario
+A domain user was unable to authenticate on the client machine because the account was locked out after multiple failed password attempts.
+
+---
+
+## Troubleshooting Steps
+1. Verified the account lockout error on the client machine
+2. Opened Active Directory Users and Computers (ADUC)
+3. Located the affected user account
+4. Opened account properties
+5. Confirmed the account lockout status
+6. Unlocked the user account
+7. Tested login from the client machine
+
+---
+
+## Resolution
+The locked user account was successfully unlocked through ADUC, restoring domain authentication and allowing the user to log in normally.
+
+---
+
+## Screenshots
+
+### Account Lockout Error
+![Account](image/ad-account-lockout.PNG)
+
+### Unlocking User Account in ADUC
+![Account Related issue](image/ad-aduc.PNG)
+
+### Successful Login After Unlock
+![Account Open](image/ad-verify.Png)
+
+---
+
 | Field | Value |
 |---|---|
 | Ticket ID | TKT-0006 |
