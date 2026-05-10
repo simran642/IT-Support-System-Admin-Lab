@@ -1,4 +1,4 @@
-# IT-Support-System-Admin-Lab
+# windows-server-it-support-labs
 Active Directory, DNS, and GPO home lab project
 
 ## 📌 Overview
